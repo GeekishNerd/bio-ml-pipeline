@@ -22,7 +22,7 @@ This project addresses a common challenge in bioinformatics: aggregating fragmen
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/TVOJE_JMENO/bio-ml-pipeline.git
+    git clone https://github.com/GeekishNerd/bio-ml-pipeline.git
     cd bio-ml-pipeline
     ```
 
